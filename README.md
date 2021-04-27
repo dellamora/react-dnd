@@ -17,7 +17,7 @@ A simple drag and drop image elements into a canvas with react.
 
 1. Clone the repo
    ```
-   git clone https://github.com/francidellamora/Dropped-image-elements-into-a-canvas-with-React
+   git clone https://github.com/francidellamora/react-dnd
    ```
 2. Install NPM packages
    ```
