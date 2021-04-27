@@ -1,8 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- 
 
-A simple drag and drop image elements into a canvas with react
+  <img align="center" alt="narutinho" src="https://github.com/francidellamora/react-dnd/blob/master/narutinhodrop.png"> 
+
+A simple drag and drop image elements into a canvas with react.
 
 
 ### Built With
