@@ -1,33 +1,13 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Firebase Contact Form 
 
-  <img align="center" alt="narutinho" src="https://github.com/francidellamora/react-dnd/blob/master/narutinhodrop.png"> 
+  <img align="center"  src="https://github.com/francidellamora/connecting-firebase-contact-form/blob/master/assets/desktop.png"> 
+   <img align="center"  src="https://github.com/francidellamora/connecting-firebase-contact-form/blob/master/assets/mobile.png"> 
 
-A simple drag and drop image elements into a canvas with react.
+A simple responsive form linked to firebase
 
 
 ### Built With
 
-* [Konva.js](https://konvajs.org/)
-* [React](https://reactjs.org/)
+CSS, JavaScript and firebase.
 
-
-### Installation
-
-
-1. Clone the repo
-   ```
-   git clone https://github.com/francidellamora/react-dnd
-   ```
-2. Install NPM packages
-   ```
-   npm install
-   ```
-4. Start and enjoy
-   
-<!-- CONTACT -->
-## Contact
-
-Twitter: [@francidellamora](https://twitter.com/francidellamora) 
-
-Project Link: [https://github.com/francidellamora/react-dnd](https://github.com/francidellamora/react-dnd)
